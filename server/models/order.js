@@ -18,15 +18,15 @@ module.exports = (sequelize, DataTypes) => {
   Order.init({
     name: DataTypes.STRING,
     vendorName: DataTypes.STRING,
-    quantity: DataTypes.INTEGER,
+    quantity: DataTypes.STRING,
     description: DataTypes.STRING,
-    price: DataTypes.INTEGER,
+    price: DataTypes.STRING,
     status: DataTypes.STRING,
     orderMaker: DataTypes.STRING,
     date: DataTypes.STRING,
     priority: DataTypes.STRING,
     executor: DataTypes.STRING,
-    image: DataTypes.BLOB,
+    image: DataTypes.STRING,
     duration: DataTypes.STRING
   }, {
     sequelize,

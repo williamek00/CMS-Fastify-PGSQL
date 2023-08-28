@@ -12,16 +12,37 @@ module.exports = {
       name: {
         type: Sequelize.STRING
       },
+      vendorName: {
+        type: Sequelize.STRING
+      },
       quantity: {
-        type: Sequelize.INTEGER
+        type: Sequelize.STRING
+      },
+      description: {
+        type: Sequelize.STRING
       },
       price: {
-        type: Sequelize.INTEGER
+        type: Sequelize.STRING
       },
       status: {
         type: Sequelize.STRING
       },
       orderMaker: {
+        type: Sequelize.STRING
+      },
+      date: {
+        type: Sequelize.STRING
+      },
+      priority: {
+        type: Sequelize.STRING
+      },
+      executor: {
+        type: Sequelize.STRING
+      },
+      image: {
+        type: Sequelize.STRING
+      },
+      duration: {
         type: Sequelize.STRING
       },
       createdAt: {

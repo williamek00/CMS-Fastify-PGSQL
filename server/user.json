@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Jacqui",
+        "email": "jshinn0@boston.com",
+        "password": "tN1!=f4X1",
+        "role": "Subcontractor",
+        "phoneNumber": "6472767947",
+        "order": "Trout - Rainbow, Fresh"
+    },
+    {
+        "name": "Aubine",
+        "email": "atowse1@usatoday.com",
+        "password": "wW7_eg\"k",
+        "role": "Construction Foreman",
+        "phoneNumber": "7517532346",
+        "order": "Cookie - Oreo 100x2"
+    },
+    {
+        "name": "Vivienne",
+        "email": "vgabriely2@goo.gl",
+        "password": "fX4*d}Sgnzqb",
+        "role": "Surveyor",
+        "phoneNumber": "3686893172",
+        "order": "Sping Loaded Cup Dispenser"
+    },
+    {
+        "name": "Packston",
+        "email": "pstorah3@admin.ch",
+        "password": "pJ9/s=usF?az@,6=",
+        "role": "Construction Worker",
+        "phoneNumber": "1153098901",
+        "order": "Water - Mineral, Natural"
+    },
+    {
+        "name": "Reina",
+        "email": "rcorsan4@seesaa.net",
+        "password": "bO3'j#1\\}0uU",
+        "role": "Architect",
+        "phoneNumber": "1915666696",
+        "order": "Nantucket Orange Juice"
+    },
+    {
+        "name": "Abby",
+        "email": "aaiskrigg5@adobe.com",
+        "password": "zR7=vf=Y",
+        "role": "Estimator",
+        "phoneNumber": "8716226709",
+        "order": "Wine - Placido Pinot Grigo"
+    },
+    {
+        "name": "Merv",
+        "email": "mwoolgar6@instagram.com",
+        "password": "gZ6{'_kx<*pKjl?",
+        "role": "Engineer",
+        "phoneNumber": "8961399452",
+        "order": "Wine - Casillero Deldiablo"
+    },
+    {
+        "name": "Rolfe",
+        "email": "rsearle7@unesco.org",
+        "password": "vQ6?!&fEhW*\"",
+        "role": "Construction Manager",
+        "phoneNumber": "2716290426",
+        "order": "Pears - Fiorelle"
+    },
+    {
+        "name": "Virgie",
+        "email": "vmerwood8@va.gov",
+        "password": "xC9|k0N|<j*F}Z",
+        "role": "Construction Worker",
+        "phoneNumber": "7913645065",
+        "order": "Cookies - Englishbay Wht"
+    },
+    {
+        "name": "Max",
+        "email": "mnorcliff9@tmall.com",
+        "password": "fJ3|VOiGouq3!,b",
+        "role": "Construction Foreman",
+        "phoneNumber": "5943232628",
+        "order": "Turnip - White, Organic"
+    },
+    {
+        "name": "Bert",
+        "email": "boliveya@amazonaws.com",
+        "password": "aF1\\&vId>~oQI>j",
+        "role": "Construction Expeditor",
+        "phoneNumber": "4839145022",
+        "order": "Chips - Assorted"
+    },
+    {
+        "name": "Janene",
+        "email": "jbresnenb@tripod.com",
+        "password": "zP1!FR,Qedg`",
+        "role": "Surveyor",
+        "phoneNumber": "5845961141",
+        "order": "Soup - Campbells, Chix Gumbo"
+    },
+    {
+        "name": "Kirk",
+        "email": "klegrovec@ifeng.com",
+        "password": "kF8~k#diK",
+        "role": "Estimator",
+        "phoneNumber": "5194447613",
+        "order": "Nantucket - Carrot Orange"
+    },
+    {
+        "name": "Annie",
+        "email": "amanniond@netvibes.com",
+        "password": "iU7&&BB|4",
+        "role": "Subcontractor",
+        "phoneNumber": "6835326094",
+        "order": "Filling - Mince Meat"
+    },
+    {
+        "name": "Nady",
+        "email": "nbelchamberse@sourceforge.net",
+        "password": "fJ8..%`2gC",
+        "role": "Electrician",
+        "phoneNumber": "6298508841",
+        "order": "Tuna - Yellowfin"
+    },
+    {
+        "name": "Julita",
+        "email": "jdachsf@scribd.com",
+        "password": "oC7/Xatz3!W1/%",
+        "role": "Construction Worker",
+        "phoneNumber": "9273388316",
+        "order": "Veal - Tenderloin, Untrimmed"
+    },
+    {
+        "name": "Alberik",
+        "email": "astodeg@cnet.com",
+        "password": "jN3+noGuVW`|OvQD",
+        "role": "Surveyor",
+        "phoneNumber": "5486212607",
+        "order": "Mousse - Banana Chocolate"
+    },
+    {
+        "name": "Bartie",
+        "email": "btrebyh@earthlink.net",
+        "password": "yF0,Wa$uxu",
+        "role": "Estimator",
+        "phoneNumber": "1624918966",
+        "order": "Butter Balls Salted"
+    },
+    {
+        "name": "Mady",
+        "email": "mlorenzettii@bizjournals.com",
+        "password": "kV9#j<`iS0=UyQ#H",
+        "role": "Architect",
+        "phoneNumber": "1306167424",
+        "order": "Eggplant Oriental"
+    },
+    {
+        "name": "Flora",
+        "email": "fliddicoatj@twitter.com",
+        "password": "vN9\\5/Q|9C",
+        "role": "Construction Worker",
+        "phoneNumber": "7147231692",
+        "order": "Cumin - Whole"
+    }
+]

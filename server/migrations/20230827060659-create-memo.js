@@ -13,7 +13,7 @@ module.exports = {
         type: Sequelize.STRING
       },
       phoneNumber: {
-        type: Sequelize.INTEGER
+        type: Sequelize.STRING
       },
       eventName: {
         type: Sequelize.STRING
@@ -25,7 +25,7 @@ module.exports = {
         type: Sequelize.STRING
       },
       price: {
-        type: Sequelize.INTEGER
+        type: Sequelize.STRING
       },
       authorSignature: {
         type: Sequelize.STRING

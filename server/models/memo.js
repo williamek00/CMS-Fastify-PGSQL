@@ -17,11 +17,11 @@ module.exports = (sequelize, DataTypes) => {
   }
   Memo.init({
     vendorName: DataTypes.STRING,
-    phoneNumber: DataTypes.INTEGER,
+    phoneNumber: DataTypes.STRING,
     eventName: DataTypes.STRING,
     eventDate: DataTypes.STRING,
     description: DataTypes.STRING,
-    price: DataTypes.INTEGER,
+    price: DataTypes.STRING,
     authorSignature: DataTypes.STRING,
     vendorSignature: DataTypes.STRING
   }, {
