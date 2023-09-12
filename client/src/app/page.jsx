@@ -1,8 +1,9 @@
 "use client";
 import "./globals.css";
 import React, { useState, useEffect } from "react";
+import Sidebar from '../components/sidebar'
+
 export default function Admin() {
-  const [isActive, setIsActive] = useState(false);
   const [currentDate, setCurrentDate] = useState(new Date());
 
   useEffect(() => {
@@ -12,28 +13,13 @@ export default function Admin() {
 
     return () => clearInterval(intervalId);
   }, []);
-  const toggleSidebar = () => {
-    setIsActive(!isActive);
-  };
+
+
+
   return (
     <div className="container">
-      <nav className={`sidebar ${isActive ? "is-hidden" : ""}`}>
-        <ul>
-          <li>Home</li>
-          <li>Notification</li>
-          <li>Urgent</li>
-          <li>Setting</li>
-        </ul>
-      </nav>
+      <Sidebar />
       <div className="contentContainer">
-        <div className="button-float">
-          <img
-            src="https://cdn.icon-icons.com/icons2/2761/PNG/512/menu_hamburger_burger_icon_176431.png"
-            alt=""
-            style={{ width: "35px", height: "35px" }}
-            onClick={toggleSidebar}
-          />
-        </div>
         <div className="date-container">
           <p className="date-text user-login">User 1</p>
           <p className="date-text">{currentDate.toLocaleString()}</p>
